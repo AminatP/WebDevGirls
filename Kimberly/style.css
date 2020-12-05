@@ -1,0 +1,57 @@
+.header{
+  text-align: center;
+  border-style: initial;
+  border-width: 7px;
+  border-color: darkred;
+  border-radius: round;
+  background-color: lightcoral;
+}
+
+#carouselExampleCaptions img{
+  width: 90px;
+  height: 700px;
+}
+
+.card-deck{
+  margin: 20px 20px 20px 20px;
+}
+
+#footer{
+  text-align: center;
+  background-color: lightcoral;
+  width: 100%;
+  height: 60px;
+  color: black;
+}
+
+.Covid-19information{
+  text-align: justify;
+  margin: 10px;
+}
+
+.Healthy{
+  margin: 10px;
+}
+
+.Meditation{
+  text-align: center;
+  margin: 10px;
+}
+
+.Entertainment{
+  text-align: justify;
+  margin: 10px;
+}
+
+.Games{
+  text-align: center;
+}
+
+
+
+.AboutUs{
+  text-align: center;
+  background-color: lightgray;
+  height: 800px;
+  margin: 10px;
+}
