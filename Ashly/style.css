@@ -1,65 +1,42 @@
+
 .navbar{
    font-family: 'Courier New', Courier, monospace;
    font-size: large;
    font-weight: 500;
    color: black;
 }
-.about-us{
-        text-align: center;
-        font-family: 'Courier New', Courier, monospace;
-        font-size: larger;
-        font-weight: 500;
-        font-variant: initial;
-        font-stretch: expanded;
-        background-image: cross-fade(50px);
+.carouselExampleIndicators{
+    height:100px;
+    width: min-content;
+    
+}
+
+.carousel-inner{
+    width: 1400px;
+    height:500px;
+}
+
+.card-group{
+    padding: 15px;
 
 }
-.money{
-    color: black;
-    float: left;
-    overflow: hidden;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: large;
-    font-variant: initial;
-    font-weight: bold;
-    text-align: left;
-}
-.background{
-    width: max-content;
-    height: max-content;
-    position: fixed;
-    background-size: auto;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    opacity: 0.3;
-}
+
 
 .exercise img{
-    width: 200px;
-    height:50px;
-    
+    width: 600px;
+    height:350px;  
+    position: center;
 }
 
 .exercise{
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    text-decoration-line: inherit;
+    text-decoration-style: double;
+    font-family: Verdana, sans-serif;
     font-size: larger;
-    font-weight: 500;
-    font-variant: initial;
-    font-stretch: expanded;
+    font-weight: 300;
+    font-variant: small-caps;
+    font-stretch: extra-expanded;
+    background-color: rgba(255, 231, 221, 0.849);
 }
 
-.money-background{
-    width: 800px;
-    height: 1000px;
-    position: fixed;
-    background-size: 100%;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    opacity: 0.3;
-
-
-}
- 
